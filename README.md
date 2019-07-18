@@ -1,7 +1,5 @@
 # com-chilipeppr-workspace-grbl
-A ChiliPeppr Workspace grbl.
-
-
+A ChiliPeppr Workspace grbl forked from jpadie to be used for custom work on the sainsmart 3018pro cnc Router
 
 ## ChiliPeppr Workspace / grbl
 
@@ -14,7 +12,7 @@ not conflict with other ChiliPeppr objects.
 | ID                    | com-chilipeppr-workspace-grbl |
 | Name                  | Workspace / grbl |
 | Description           | A ChiliPeppr Workspace grbl. |
-| chilipeppr.load() URL | http://raw.githubusercontent.com/jpadie/workspace-grbl1/master/auto-generated-workspace.html |
+| chilipeppr.load() URL | http://raw.githubusercontent.com/pastprimitive/workspace-grbl1/master/auto-generated-workspace.html |
 | Edit URL              | http://ide.c9.io/jpadie/jpadiegrbl1wsclone |
 | Github URL            | http://github.com/jpadie/workspace-grbl1 |
 | Test URL              | https://preview.c9users.io/jpadie/jpadiegrbl1wsclone/workspace.html |
